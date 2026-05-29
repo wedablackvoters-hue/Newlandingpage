@@ -1,0 +1,6 @@
+{
+  "name": "AutoLenis",
+  "description": "AutoLenis — Stop Negotiating Alone. Dealers compete privately for your business. Recreated with the facebook landing page layout and modern conversion forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
